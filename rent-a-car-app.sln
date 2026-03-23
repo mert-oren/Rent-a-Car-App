@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta5-OtoGaleri", "Hafta5-OtoGaleri\Hafta5-OtoGaleri.csproj", "{449BCEC9-8B41-4665-9014-DE67471D1760}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rent-a-car-app", "rent-a-car-app\rent-a-car-app.csproj", "{F4F5D30F-73B7-43D2-891C-BC3DCC4AE058}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{449BCEC9-8B41-4665-9014-DE67471D1760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{449BCEC9-8B41-4665-9014-DE67471D1760}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{449BCEC9-8B41-4665-9014-DE67471D1760}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{449BCEC9-8B41-4665-9014-DE67471D1760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F5D30F-73B7-43D2-891C-BC3DCC4AE058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F5D30F-73B7-43D2-891C-BC3DCC4AE058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F5D30F-73B7-43D2-891C-BC3DCC4AE058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F5D30F-73B7-43D2-891C-BC3DCC4AE058}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9A899794-23B6-41B1-918F-E0C6F2464F8F}
+		SolutionGuid = {975D1EC6-693B-4FFC-B612-1FEB9E4F90DD}
 	EndGlobalSection
 EndGlobal

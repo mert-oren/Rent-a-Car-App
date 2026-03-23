@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bildable/Desktop/Siliconmade/Code/Hafta5-OtoGaleri/Hafta5-OtoGaleri/Hafta5-OtoGaleri.csproj",
-      "projectName": "Hafta5-OtoGaleri",
-      "projectPath": "/Users/bildable/Desktop/Siliconmade/Code/Hafta5-OtoGaleri/Hafta5-OtoGaleri/Hafta5-OtoGaleri.csproj",
+      "projectUniqueName": "/Users/bildable/Desktop/224/rent-a-car-app/rent-a-car-app/rent-a-car-app.csproj",
+      "projectName": "rent-a-car-app",
+      "projectPath": "/Users/bildable/Desktop/224/rent-a-car-app/rent-a-car-app/rent-a-car-app.csproj",
       "packagesPath": "/Users/bildable/.nuget/packages/",
-      "outputPath": "/Users/bildable/Desktop/Siliconmade/Code/Hafta5-OtoGaleri/Hafta5-OtoGaleri/obj/",
+      "outputPath": "/Users/bildable/Desktop/224/rent-a-car-app/rent-a-car-app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bildable/.nuget/NuGet/NuGet.Config"

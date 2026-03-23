@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{449BCEC9-8B41-4665-9014-DE67471D1760}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hafta5-OtoGaleri/Program.cs">
+    <Files>
+      <File FileName="Hafta5-OtoGaleri/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hafta5-OtoGaleri">
+            <Node name="Hafta5-OtoGaleri" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Hafta5-OtoGaleri PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

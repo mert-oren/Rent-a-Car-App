@@ -1,8 +1,6 @@
-﻿using System.Collections.Generic;
-using System.Numerics;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 
-namespace Hafta5_OtoGaleri;
+namespace rent_a_car_app;
 
 class Program
 {
@@ -303,7 +301,7 @@ class Program
                 ArabaYazdirma(item);
             }
         }
-        
+
         Console.WriteLine();
     }
 
@@ -655,7 +653,8 @@ class Program
     }
 }
 
- 
- 
- 
- 
+
+
+
+
+
